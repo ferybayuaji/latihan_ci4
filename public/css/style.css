@@ -1,0 +1,12 @@
+.sampul{
+    width: 100px;
+}
+
+.detail{
+    width: 200px;
+}
+
+
+.table > tbody > tr > * {
+    vertical-align:middle ;
+}
